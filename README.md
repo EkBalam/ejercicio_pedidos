@@ -1,5 +1,7 @@
 # Examen segundo parcial POO
 
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/5318519/175539860-80607c04-2378-460b-ab70-8fd5bd78063a.png)
+
 # Pedidos
 Realiza el diseño de una aplicación para la gestión de pedidos. La aplicación deberá:
 1. Administrar clientes (se guarda su nombre, dirección, teléfono y e-mail), que pueden realizar pedidos de productos, de los cuales se anota la cantidad en stock. Un cliente puede tener una o varias cuentas para el pago de los pedidos. Cada cuenta está asociada a una tarjeta de crédito.
